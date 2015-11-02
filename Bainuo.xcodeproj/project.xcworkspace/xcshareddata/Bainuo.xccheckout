@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>27BAC669-DBBA-477D-9602-A2BB670DEB11</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Bainuo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BE3BCE0E3A00DD880363C173D4F69423916E72BB</key>
+		<string>https://github.com/Feyddy/Bainuo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Bainuo /Bainuo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BE3BCE0E3A00DD880363C173D4F69423916E72BB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Feyddy/Bainuo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BE3BCE0E3A00DD880363C173D4F69423916E72BB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BE3BCE0E3A00DD880363C173D4F69423916E72BB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Bainuo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
